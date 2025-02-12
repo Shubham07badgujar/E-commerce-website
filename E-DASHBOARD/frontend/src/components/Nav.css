@@ -1,0 +1,71 @@
+.nav-first-div{
+ background-color: red;
+}
+.nav-ul{
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  background-color: skyblue;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
+.nav-ul li{
+  display: inline;
+  background-color: skyblue;
+
+}
+
+.nav-ul li a {
+  text-decoration: none;
+  color: rgb(232, 15, 15);
+  font-size: 16px;
+  font-weight: bold;
+  padding: 8px 12px;
+  transition: background-color 0.3s ease;
+  border-radius: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Nav.css
+
+.ul-li {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    background-color: #333;
+    padding: 10px 20px;
+    border-radius: 8px;
+  }
+  
+  .ul-li li {
+    display: inline;
+  }
+  
+  .ul-li li a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 8px 12px;
+    transition: background-color 0.3s ease;
+    border-radius: 4px;
+  }
+  
+  .ul-li li a:hover {
+    background-color: #555;
+  }
+   */

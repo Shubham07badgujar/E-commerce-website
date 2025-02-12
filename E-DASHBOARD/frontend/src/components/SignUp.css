@@ -1,0 +1,23 @@
+.inputBox{
+    display: block;
+    margin: 25px;
+    padding: 10px;
+    width: 300px;
+    border: 1px solid skyblue;
+}
+
+.signUp{
+    margin-left: 30%;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;  
+}
+.signUpHeading{
+    margin-left: 18%;
+    margin-bottom: 20px;
+}
+
+.signUpButton{
+    margin-left: 25%;
+    cursor: pointer;
+}

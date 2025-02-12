@@ -1,0 +1,8 @@
+.nav-ul li{
+  display: inline-block;
+  gap: 40px;
+}
+
+.body{
+  display: inline-flex;
+}
